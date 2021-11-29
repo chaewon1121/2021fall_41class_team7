@@ -6,7 +6,7 @@
 > 
  
 ## Propsal Documentation
-[문서](https://github.com/chaewon1121/2021fall_41class_team7/blob/947c4682c6e48133e78557cb6c6391833b65b470/doc/proposal_team7.pdf)
+[문서](https://github.com/chaewon1121/2021fall_41class_team7/doc/proposal_team7.pdf)
 
 doc/proposal_team7.pdf
 ## Requirement Specification
