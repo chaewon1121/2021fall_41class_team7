@@ -6,7 +6,7 @@
 > 
  
 ## Propsal Documentation
-[문서](https://github.com/skkuse/2021fall41class_team7/doc/proposal_team7.pdf)
+[문서](https://github.com/skkuse/2021fall41class_team7/blob/master/doc/proposal_team7.pdf)
 ## Requirement Specification
 ## Design Specification
 ## Final Presentation
